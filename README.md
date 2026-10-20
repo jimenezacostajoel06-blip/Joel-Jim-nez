@@ -15,7 +15,7 @@ Soy estudiante interesado en la programación y el desarrollo de software. Actua
 - Unity
 - Git y GitHub
 
-### 📂 Mis proyectos
+### Mis proyectos
 - **Sistema bancario:** programa que simula las funciones básicas de un banco.
 - **Juego de granja:** videojuego en el que se plantan semillas y se cosechan los cultivos.
 - **Tres en raya (X y O):** juego para dos jugadores cuyo objetivo es formar una línea de tres símbolos iguales.
@@ -23,4 +23,4 @@ Soy estudiante interesado en la programación y el desarrollo de software. Actua
 ### Mi objetivo
 Seguir aprendiendo, desarrollar nuevos proyectos y adquirir experiencia en programación para crecer tanto personal como profesionalmente.
 
-¡Gracias por visitar mi perfil! 😄
+¡Gracias por visitar mi perfil! 
